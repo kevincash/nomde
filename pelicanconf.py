@@ -40,3 +40,9 @@ I18N_TEMPLATES_LANG = 'en'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Pelican-Bootstrap3 Theme alterations
+
+# HIDE_SIDEBAR = True
+DISABLE_SIDEBAR_TITLE_ICONS = True
+PADDED_SINGLE_COLUMN_STYLE = True
