@@ -1,5 +1,6 @@
 AUTHOR = 'Kevin Cash'
 SITENAME = 'nomde'
+SITESUBTITLE = ''
 SITEURL = ''
 
 PATH = 'content'
@@ -28,7 +29,7 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 5
 
 PLUGIN_PATHS = ['pelican-plugins']
-THEME = 'pelican-themes/pelican-bootstrap3'
+THEME = 'pelican-themes/simple-bootstrap'
 BOOTSTRAP_THEME = 'flatly'
 
 PLUGIN_PATHS = ['pelican-plugins']
